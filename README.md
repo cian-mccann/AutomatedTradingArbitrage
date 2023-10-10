@@ -1,5 +1,3 @@
-# Background Info
-
 ### Terra Blockchain
 Terra is an open-source blockchain payment platform for an algorithmic stablecoin, which is a cryptocurrency that automatically tracks the price of currencies or other assets. The Terra blockchain enables users to instantly spend, save, trade, or exchange Terra stablecoins. Overall, Terra aims to bridge the gap between traditional finance and the world of cryptocurrencies, offering a stable and efficient means of transacting value on the blockchain.
 
@@ -17,8 +15,9 @@ Features:
 ### Arbitrage Trading
 
 Arbitrage trading is a strategy employed in financial markets to exploit price disparities of the same asset or related assets across different exchanges or markets. The goal of arbitrageurs is to profit from these price differences by buying the asset at a lower price in one market and simultaneously selling it at a higher price in another, thereby making a risk-free profit. Arbitrage opportunities can arise due to various factors, including market inefficiencies, differences in supply and demand, or delays in information dissemination. Traders often use advanced algorithms and high-frequency trading techniques to execute arbitrage strategies swiftly, as these price disparities can be fleeting.
-
-# This AutomatedTradingArbitrage Repository
+<br/><br/>
+<br/><br/>
+# This Repository
 
 The code in this repository uses Terra.js to interact with the Terra blockchain to perform automated arbitrage trading, aiming to profit from the inefficiencies in the price of mETH vs bETH, and bLuna vs Luna. 
 ### mETHbETHPeg.js For Example 
