@@ -82,7 +82,7 @@ const swapAll_bETH_to_mETH = async (bETHAccountBalance) => {
             "send": {
                 "contract": "terra19qx5xe6q9ll4w0890ux7lv2p4mf3csd4qvt3ex",
                 "amount": bETHAccountBalance,
-                "msg": "ewogICAgICAgICJleGVjdXRlExZHpoenVreWV6djBldHoyMnVkOTQwejdhZHl2N3hnY2prYWh1dW4iCiAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICB9CiAgICAgfQ"           
+                "msg": "ewogICAgICAgICJleGVjdXRlExZHpoenVreWV6djBldHoyMnVkOTQwejd...hZHl2N3hnY2prYWh1dW4iCiAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICB9CiAgICAgfQ=="           
             }
         }
     );
@@ -147,7 +147,7 @@ const swapAll_mETH_to_bETH = async (mETHAccountBalance) => {
             "send": {
                 "contract": "terra19qx5xe6q9ll4w0890ux7lv2p4mf3csd4qvt3ex",
                 "amount": mETHAccountBalance,
-                "msg": "ewogICAgICAgICJleGVjdXRlExZHpoenVreWV6djBldHoyMnVkOTQwejdhZHl2N3hnY2prYWh1dW4iCiAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICB9CiAgICAgfQ=="           
+                "msg": "ewogICAgICAgICJleGVjdXRlExZHpoenVreWV6djBldHoyMnVkOTQwejd...hZHl2N3hnY2prYWh1dW4iCiAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICB9CiAgICAgfQ===="           
             }
         }
     );
